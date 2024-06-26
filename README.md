@@ -1,6 +1,6 @@
 # cryptonomicon
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository  is not a showcase of my finest coding. The code may not look its best as it was written quickly and serves as a preliminary draft, meant to lay the groundwork for a more refined application.
 
 ## Recommended IDE Setup
 
