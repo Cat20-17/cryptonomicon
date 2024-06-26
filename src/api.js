@@ -1,6 +1,5 @@
 import { openChanel } from '@/broadcastChannel'
 
-const API_KEY = 'b8f810c7bfcc3f4fff2aae909d61940e1d1928949caa12c46da257697da780c6'
 const tickersHandlers = new Map()
 const errorsHandlers = new Map()
 const socket = new WebSocket(`wss://streamer.cryptocompare.com/v2?api_key=${API_KEY}`)
